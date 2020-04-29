@@ -1,5 +1,5 @@
 # SQL-LocalDB-Test
-Port of aalex675 / SQL-LocalDB-Test to .net standard 2.0 
+Port of aalex675 / SQL-LocalDB-Test to .net standard 2.0 - https://github.com/aalex675/SQL-LocalDB-Test
 
 Usage:
     
